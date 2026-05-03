@@ -25,8 +25,10 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+
+
+### Cybersecurity Softwares  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
@@ -34,9 +36,20 @@
 
 
 
+### Infraestructure Skills
+  
+<div align="center">  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+</div>
+
 </td><td valign="top" width="33%">
 
 
+
+### Personal Skills  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+</div>
 
 </td></tr></table>  
 
