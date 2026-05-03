@@ -2,7 +2,7 @@
   
 
 <div align="right">
-<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/LEGO%20COMPUTER.png" align="right" height="200" width="200" />
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/LEGO%20COMPUTER.png?raw=true" align="right" height="200" width="200" />
 </div>  
   
 
@@ -58,6 +58,11 @@
 
 ## Connect with me  
 <div align="center">
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/social%20media%20lego.jpg?raw=true" align="center" height="300" width="" />
+</div>  
+  
+
+<div align="center">
 <a href="https://github.com/GuillermoBracho-Ortega" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -74,7 +79,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillermoBracho-Ortega&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+### Certificates  
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/certificates%20lego.jpg?raw=true" align="left" height="200" width="300" />  
+  
+
+Certificate Cisco  
+  
 
 <br/>  
 
@@ -97,13 +109,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
