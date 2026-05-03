@@ -57,9 +57,7 @@
 
 
 ## Connect with me  
-<div align="center">
-<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/social%20media%20lego.jpg?raw=true" align="center" height="300" width="" />
-</div>  
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/social%20media%20lego.jpg?raw=true" align="left" height="200" width="" />  
   
 
 <div align="center">
@@ -75,20 +73,16 @@
 </div>  
   
 
-<br/>  
+<br/>  <br/> <br/>  <br/> <br/>  <br/> 
+<br/>  <br/> 
+<br/>  <br/> 
 
 
 ## Github Stats  
-
-
-### Certificates  
-<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/certificates%20lego.jpg?raw=true" align="left" height="200" width="300" />  
-  
-
 Certificate Cisco  
   
 
-<br/>  
+<br/>  <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
 
 
 ## Recent Blog Posts  
