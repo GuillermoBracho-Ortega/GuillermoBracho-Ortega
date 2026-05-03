@@ -1,9 +1,9 @@
 ### <div align="center">Hola!! 👋Soy Guillermo Bracho 💻🛡️</div>  
   
 
-<p align="center">
-  <img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/LEGO%20COMPUTER.png" width="600" height="400"/>
-</p>
+<div align="right">
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/LEGO%20COMPUTER.png" align="right" height="200" width="200" />
+</div>  
   
 
 - 🔭 Actualmente trabajando [Cybersecurity Home Lab](https://github.com/rishavanand/github-profilinator)  
