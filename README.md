@@ -25,34 +25,35 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Cybersecurity Softwares  
+### 🔒 Cybersecurity  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.trendmicro.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Trend Micro" height="50" /></a>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Trend%20Micro-D71920?style=for-the-badge&logo=trendmicro&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="30"/>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Infraestructure Skills
-  
+### 🖥️ Infrastructure  
 <div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<img style="margin: 10px" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Personal Skills  
+### 🤝 Personal Skills  
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Leadership-0A66C2?style=for-the-badge&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/English%20C1-FF6B35?style=for-the-badge&logoColor=white" height="30"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logoColor=white" height="30"/>  
 </div>
 
-</td></tr></table>  
-
+</td></tr></table>
 <br/>  
 
 
