@@ -80,11 +80,7 @@
 
 ## 🏆 Certifications
 
-<p align="center">
-  <img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/cisco.png" width="80" height="80"/>
-  <br/>
-  <b>Cisco CCNA: Switching, Routing, and Wireless Essentials</b>
-</p>
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/cisco.png" width="50" height="50"/> **Cisco CCNA: Switching, Routing, and Wireless Essentials**
   
 
 <br/>  
