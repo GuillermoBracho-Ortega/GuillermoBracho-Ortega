@@ -57,7 +57,9 @@
 
 
 ## Connect with me  
+<div align="center">
 <img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/social%20media%20lego.jpg?raw=true" align="center" height="200" width="" />
+</div>  
   
 
 <div align="center">
@@ -73,16 +75,14 @@
 </div>  
   
 
-<br/>  <br/> <br/>  <br/> <br/>  <br/> 
-<br/>  <br/> 
-<br/>  <br/> 
+<br/>  
 
 
 ## Github Stats  
 Certificate Cisco  
   
 
-<br/>  <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
+<br/>  
 
 
 ## Recent Blog Posts  
@@ -105,8 +105,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
