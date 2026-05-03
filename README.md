@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">Soy Guillermo, Ingeniero en Ciberseguridad & IT 👨‍💻 desde Monterrey 🇲🇽, apasionado por proteger infraestructuras antes de que los problemas escalen — y encontrar las vulnerabilidades antes de que alguien más lo haga 🔒💻</div>  
+### <div align="center">Hola!! Soy Guillermo
+Ingeniero en Ciberseguridad & IT 👨‍💻 desde Monterrey 🇲🇽, apasionado por proteger infraestructuras antes de que los problemas escalen — y encontrar las vulnerabilidades antes de que alguien más lo haga 🔒💻</div>  
   
 
 - 🔭 Actualmente trabajando [Cybersecurity Home Lab](https://github.com/rishavanand/github-profilinator)  
