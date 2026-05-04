@@ -64,6 +64,17 @@
  <br/>  
 
 
+
+
+<br/>  
+ 
+## 🏆 Certifications
+
+<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/cisco.png" width="50" height="50"/> **Cisco CCNA: Switching, Routing, and Wireless Essentials**
+  
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/social%20media%20lego.jpg?raw=true" align="center" height="200" width="" />
@@ -82,19 +93,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-
- 
-## 🏆 Certifications
-
-<img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/cisco.png" width="50" height="50"/> **Cisco CCNA: Switching, Routing, and Wireless Essentials**
-  
-
-<br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
