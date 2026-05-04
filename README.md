@@ -78,7 +78,14 @@
 
 <br/>  
 
+## 🚀 Projects
 
+- 🔒 [Home Lab de Ciberseguridad](https://github.com/GuillermoBracho-Ortega/home-lab-cybersecurity)
+- 🌐 [Network Topology con Cisco](https://github.com/GuillermoBracho-Ortega/network-topology-cisco)
+
+ <br/>  
+
+ 
 ## 🏆 Certifications
 
 <img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/raw/main/cisco.png" width="50" height="50"/> **Cisco CCNA: Switching, Routing, and Wireless Essentials**
