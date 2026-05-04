@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando [Cybersecurity Home Lab](https://github.com/rishavanand/github-profilinator) 
+- 🔭 Actualmente trabajando [Cybersecurity Home Lab](https://github.com/) 
 - 🛡️ Cybersecurity Engineer con 2+ años protegiendo infraestructura empresarial en entornos multisite
 - 🎓 Ingeniero en Sistemas egresado de la UANL con certificación Cisco CCNA
 - 🔍 Apasionado por identificar vulnerabilidades antes de que se conviertan en incidentes
