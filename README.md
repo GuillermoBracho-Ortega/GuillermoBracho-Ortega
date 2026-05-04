@@ -56,6 +56,13 @@
 </td></tr></table>
 <br/>  
 
+## 🚀 Projects
+
+- 🔒 [Home Lab de Ciberseguridad](https://github.com/GuillermoBracho-Ortega/home-lab-cybersecurity)
+- 🌐 [Network Topology con Cisco](https://github.com/GuillermoBracho-Ortega/network-topology-cisco)
+
+ <br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -78,12 +85,7 @@
 
 <br/>  
 
-## 🚀 Projects
 
-- 🔒 [Home Lab de Ciberseguridad](https://github.com/GuillermoBracho-Ortega/home-lab-cybersecurity)
-- 🌐 [Network Topology con Cisco](https://github.com/GuillermoBracho-Ortega/network-topology-cisco)
-
- <br/>  
 
  
 ## 🏆 Certifications
