@@ -104,7 +104,6 @@
 <img src="https://github.com/GuillermoBracho-Ortega/GuillermoBracho-Ortega/blob/main/social%20media%20lego.jpg?raw=true" align="center" height="200" width="" />
 </div>  
   
-
 <div align="center">
 <a href="https://github.com/GuillermoBracho-Ortega" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -114,8 +113,11 @@
 </a>
 <a href="https://www.youtube.com/@SpiderShadow-g" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+<a href="mailto:guillermobracho02@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>
   
 
 ## Recent Blog Posts  
