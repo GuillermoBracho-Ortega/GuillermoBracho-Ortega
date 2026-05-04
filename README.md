@@ -73,7 +73,29 @@
 </td></tr></table>
 <br/>  
 
+## 🧠 Habilidades y conocimientos
 
+🖥️ **Networking & Seguridad**
+- Configuración de Routing & Switching (VLANs, DHCP, IPSec VPN, ACLs)
+- Administración de firewalls con reglas de filtrado, NAT y segmentación de red
+- Monitoreo de tráfico anómalo y respuesta a incidentes de seguridad
+- Diseño e implementación de topologías de red en Cisco Packet Tracer
+- Configuración de Access Points (SSID, segmentación, control de acceso)
+
+🛡️ **Ciberseguridad**
+- Administración de Active Directory, OUs, grupos y políticas GPO
+- Gestión de Trend Micro Antivirus: configuración centralizada, whitelisting e incident response
+- Evaluación de vulnerabilidades y mitigación proactiva de amenazas
+- Integración segura de sistemas de control de acceso y cámaras IP
+
+⚙️ **Infraestructura & Virtualización**
+- Administración de entornos VMware: provisioning de VMs, snapshots y continuidad del negocio
+- Windows Server: administración de roles, servicios y logs
+- Creación y mantenimiento de documentación técnica, diagramas y procedimientos
+
+🌐 **Idiomas**
+- Español — Nativo
+- Inglés — Avanzado (C1)
 
 <br/>  
 
