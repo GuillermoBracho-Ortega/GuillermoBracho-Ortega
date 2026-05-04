@@ -6,17 +6,19 @@
 </div>  
   
 
-- 🔭 Actualmente trabajando [Cybersecurity Home Lab](https://github.com/rishavanand/github-profilinator)  
+ 
   
 
-- 🌱 Actualmente aprendiendo Ethical Hacking
-  
-  
+## 👨‍💻 Sobre mí
 
-- ❓ Pregúntame sobre Active Directory, firewalls, redes Cisco, VPNs y seguridad de endpoints  
-  
-
-- ⚡ Fun fact: Soy fan del anime — y mi personaje favorito es Zoro 🗡️  
+- 🔭 Actualmente trabajando [Cybersecurity Home Lab](https://github.com/rishavanand/github-profilinator) 
+- 🛡️ Cybersecurity Engineer con 2+ años protegiendo infraestructura empresarial en entornos multisite
+- 🎓 Ingeniero en Sistemas egresado de la UANL con certificación Cisco CCNA
+- 🔍 Apasionado por identificar vulnerabilidades antes de que se conviertan en incidentes
+- 🌱 Actualmente aprendiendo Ethical Hacking y expandiendo mi home lab de ciberseguridad
+- 🌐 Inglés avanzado C1 — cómodo en entornos bilingües y documentación técnica en ambos idiomas
+- 📍 Basado en Monterrey, México — abierto a oportunidades locales e internacionales
+- ⚡ Fun fact: Soy fan del anime — y mi personaje favorito es Zoro 🗡️ 
   
 
 <br/>  
