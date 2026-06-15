@@ -26,8 +26,7 @@
 ## 🚀 Projects
 
 - 🔒 [Home Lab de Ciberseguridad](https://github.com/GuillermoBracho-Ortega/home-lab-cybersecurity)
-- 🌐 [Network Topology con Cisco](https://github.com/GuillermoBracho-Ortega/network-topology-cisco)
-
+- 🏢 [Segmentación de Red Multi-Inquilino (45 unidades)](https://github.com/GuillermoBracho-Ortega/secure-vlan-segmentation)
  <br/>  
 
 
